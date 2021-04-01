@@ -1,3 +1,3 @@
 # PokemonCard 🚧
 
-![Screen](/asstes/charizard.gif)
+![Screen](/assets/charizard.gif)
